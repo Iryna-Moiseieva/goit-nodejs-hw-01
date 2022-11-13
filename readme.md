@@ -1,11 +1,11 @@
-# Start run CLI
-node -v - version of node
-npm -v - version of npm
-npm init - initializes npm and create package.json
-npm init -y - create package.json
-npm install --save-dev nodemon - install nodemon
-npm start - run CLI
-npm run dev - run the development server
+# List of useful commands to run CLI
+1. **node -v** - version of node
+2. **npm -v** - version of npm
+3. **npm init** - initializes npm and create package.json
+4. **npm init -y** - create package.json
+5. **npm install** --save-dev nodemon - install nodemon
+5. **npm start** - run CLI
+6. **npm run dev** - run the development server
 
 # Получаем и выводим весь список контактов в виде таблицы (console.table)
 node index.js --action list
